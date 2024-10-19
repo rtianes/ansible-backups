@@ -1,6 +1,6 @@
 Building configuration...
 
-Current configuration : 4731 bytes
+Current configuration : 4732 bytes
 !
 ! Last configuration change at 15:24:46 UTC Sat Oct 19 2024 by admin
 !
@@ -11,7 +11,7 @@ platform qfp utilization monitor load 80
 no platform punt-keepalive disable-kernel-core
 platform console virtual
 !
-hostname sitea
+hostname russel
 !
 boot-start-marker
 boot-end-marker
